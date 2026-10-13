@@ -124,99 +124,99 @@ Open-source carbon accounting software enables self-hosting, transparent calcula
 
 ### 🌟 Ranked Open-Source Repositories
 
-> All repositories are strictly ranked in **descending order by GitHub star count**. Star badges link directly to each repository's stargazers community.
+> All repositories are strictly ranked in **descending order by GitHub Stars_Count**. Stars_Badges link directly to each repository's stargazers community.
 
-* **[Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib)** [![GitHub stars](https://img.shields.io/github/stars/electricitymaps/electricitymaps-contrib?style=social&color=white)](https://github.com/electricitymaps/electricitymaps-contrib/stargazers)  
+* **[Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib)** [![GitHub_Stars](https://img.shields.io/github/stars/electricitymaps/electricitymaps-contrib?style=social&color=white)](https://github.com/electricitymaps/electricitymaps-contrib/stargazers)  
   *The open-source repository for Electricity Maps data parsers and carbon intensity calculations.*  
   Real-time, 24/7 hourly grid carbon intensity data across global regions. Powers granular Scope 2 market-based carbon accounting and carbon-aware load shifting for digital infrastructure.  
   *Stack: Python • TypeScript*
 
-* **[Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)** [![GitHub stars](https://img.shields.io/github/stars/cloud-carbon-footprint/cloud-carbon-footprint?style=social&color=white)](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/stargazers)  
+* **[Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)** [![GitHub_Stars](https://img.shields.io/github/stars/cloud-carbon-footprint/cloud-carbon-footprint?style=social&color=white)](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/stargazers)  
   *Estimate energy use (kWh) and carbon emissions (metric tons CO2e) from public cloud usage.*  
   Connects to AWS, Microsoft Azure, and Google Cloud billing and usage APIs to calculate compute, storage, and networking emissions for Scope 3 digital footprint auditing.  
   *Stack: TypeScript • React • Node.js*
 
-* **[Carbon-Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk)** [![GitHub stars](https://img.shields.io/github/stars/Green-Software-Foundation/carbon-aware-sdk?style=social&color=white)](https://github.com/Green-Software-Foundation/carbon-aware-sdk/stargazers)  
+* **[Carbon-Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk)** [![GitHub_Stars](https://img.shields.io/github/stars/Green-Software-Foundation/carbon-aware-sdk?style=social&color=white)](https://github.com/Green-Software-Foundation/carbon-aware-sdk/stargazers)  
   *Green Software Foundation SDK for building carbon-aware software systems.*  
   Provides Web APIs and client libraries that fetch local electricity grid marginal emissions data to help software schedule compute tasks at times when renewable energy is abundant.  
   *Stack: C# • Python • TypeScript*
 
-* **[CO2.js](https://github.com/thegreenwebfoundation/co2.js)** [![GitHub stars](https://img.shields.io/github/stars/thegreenwebfoundation/co2.js?style=social&color=white)](https://github.com/thegreenwebfoundation/co2.js/stargazers)  
+* **[CO2.js](https://github.com/thegreenwebfoundation/co2.js)** [![GitHub_Stars](https://img.shields.io/github/stars/thegreenwebfoundation/co2.js?style=social&color=white)](https://github.com/thegreenwebfoundation/co2.js/stargazers)  
   *An npm module for estimating carbon emissions from digital systems and web applications.*  
   Developed by The Green Web Foundation. Implements the OneByte model and the Sustainable Web Design (SWD) methodology to calculate emissions from digital data transfer and website operations.  
   *Stack: JavaScript (Node.js & Browser)*
 
-* **[CarbonTracker](https://github.com/saintslab/carbontracker)** [![GitHub stars](https://img.shields.io/github/stars/saintslab/carbontracker?style=social&color=white)](https://github.com/saintslab/carbontracker/stargazers)  
+* **[CarbonTracker](https://github.com/saintslab/carbontracker)** [![GitHub_Stars](https://img.shields.io/github/stars/saintslab/carbontracker?style=social&color=white)](https://github.com/saintslab/carbontracker/stargazers)  
   *Track, predict, and log energy consumption and GHG emissions of training machine learning models.*  
   Monitors GPU, CPU, and DRAM power consumption in real time during deep learning training epochs and converts energy consumption into CO2 equivalent using regional grid emissions factors.  
   *Stack: Python • PyTorch • TensorFlow*
 
-* **[Greenframe CLI](https://github.com/marmelab/greenframe-cli)** [![GitHub stars](https://img.shields.io/github/stars/marmelab/greenframe-cli?style=social&color=white)](https://github.com/marmelab/greenframe-cli/stargazers)  
+* **[Greenframe CLI](https://github.com/marmelab/greenframe-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/marmelab/greenframe-cli?style=social&color=white)](https://github.com/marmelab/greenframe-cli/stargazers)  
   *Measure the carbon footprint of user scenarios on web applications.*  
   Simulates real user journeys using headless browsers, tracks resource utilization (CPU, network, memory), and outputs standardized emissions scores for green software engineering.  
   *Stack: TypeScript • Docker*
 
-* **[Blockchain Carbon Accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)** [![GitHub stars](https://img.shields.io/github/stars/hyperledger-labs/blockchain-carbon-accounting?style=social&color=white)](https://github.com/hyperledger-labs/blockchain-carbon-accounting/stargazers)  
+* **[Blockchain Carbon Accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)** [![GitHub_Stars](https://img.shields.io/github/stars/hyperledger-labs/blockchain-carbon-accounting?style=social&color=white)](https://github.com/hyperledger-labs/blockchain-carbon-accounting/stargazers)  
   *Decentralized climate action and accounting ledger by Hyperledger Climate Action & Accounting SIG.*  
   Implements blockchain smart contracts for auditable greenhouse gas emissions calculations, renewable energy certificates (RECs), and decentralized verification of climate claims. (Collaboratively maintained with [Open-Earth-Foundation](https://github.com/Open-Earth-Foundation/blockchain-carbon-accounting)).  
   *Stack: TypeScript • Solidity • Python*
 
-* **[Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser)** [![GitHub stars](https://img.shields.io/github/stars/LCA-ActivityBrowser/activity-browser?style=social&color=white)](https://github.com/LCA-ActivityBrowser/activity-browser/stargazers)  
+* **[Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser)** [![GitHub_Stars](https://img.shields.io/github/stars/LCA-ActivityBrowser/activity-browser?style=social&color=white)](https://github.com/LCA-ActivityBrowser/activity-browser/stargazers)  
   *Open-source Graphical User Interface for Brightway2 Life Cycle Assessment.*  
   Features multi-scenario modeling, Monte Carlo uncertainty analysis, Sankey diagrams, contribution analyses, and global sensitivity evaluations for product and corporate LCA.  
   *Stack: Python • PyQt • Brightway2*
 
-* **[Brightway2](https://github.com/brightway-lca/brightway2)** [![GitHub stars](https://img.shields.io/github/stars/brightway-lca/brightway2?style=social&color=white)](https://github.com/brightway-lca/brightway2/stargazers)  
+* **[Brightway2](https://github.com/brightway-lca/brightway2)** [![GitHub_Stars](https://img.shields.io/github/stars/brightway-lca/brightway2?style=social&color=white)](https://github.com/brightway-lca/brightway2/stargazers)  
   *Advanced open-source Python framework for Life Cycle Assessment (LCA) calculations.*  
   Matrix-based LCA computational engine supporting multiple life cycle databases (Ecoinvent), dynamic inventory calculation, and parametric modeling.  
   *Stack: Python • NumPy • SciPy*
 
-* **[BoaviztAPI](https://github.com/Boavizta/boaviztapi)** [![GitHub stars](https://img.shields.io/github/stars/Boavizta/boaviztapi?style=social&color=white)](https://github.com/Boavizta/boaviztapi/stargazers)  
+* **[BoaviztAPI](https://github.com/Boavizta/boaviztapi)** [![GitHub_Stars](https://img.shields.io/github/stars/Boavizta/boaviztapi?style=social&color=white)](https://github.com/Boavizta/boaviztapi/stargazers)  
   *Open reference data and methodology API for evaluating environmental impacts of IT equipment.*  
   Calculates manufacturing (embedded) and operational carbon footprint (GHG), abiotic resource depletion (ADP), and primary energy use for cloud instances, physical servers, and user terminals.  
   *Stack: Python • FastAPI*
 
-* **[Lcpy](https://github.com/spirdgk/lcpy)** [![GitHub stars](https://img.shields.io/github/stars/spirdgk/lcpy?style=social&color=white)](https://github.com/spirdgk/lcpy/stargazers)  
+* **[Lcpy](https://github.com/spirdgk/lcpy)** [![GitHub_Stars](https://img.shields.io/github/stars/spirdgk/lcpy?style=social&color=white)](https://github.com/spirdgk/lcpy/stargazers)  
   *Parametric and dynamic Life Cycle Assessment (LCA) and Life Cycle Costing (LCC) package.*  
   Integrates LCA computational models with chemical process simulations, optimization routines, and machine learning for industrial decarbonization engineering.  
   *Stack: Python*
 
-* **[esrs-xbrl-parser](https://github.com/aimabel-ai/esrs-xbrl-parser)** [![GitHub stars](https://img.shields.io/github/stars/aimabel-ai/esrs-xbrl-parser?style=social&color=white)](https://github.com/aimabel-ai/esrs-xbrl-parser/stargazers)  
+* **[esrs-xbrl-parser](https://github.com/aimabel-ai/esrs-xbrl-parser)** [![GitHub_Stars](https://img.shields.io/github/stars/aimabel-ai/esrs-xbrl-parser?style=social&color=white)](https://github.com/aimabel-ai/esrs-xbrl-parser/stargazers)  
   *Parser and validation engine for European Sustainability Reporting Standards (ESRS) XBRL taxonomies.*  
   Parses EFRAG-approved ESRS XBRL taxonomy definitions to validate digital CSRD filings and structured sustainability data.  
   *Stack: TypeScript*
 
-* **[xBRL-Forge](https://github.com/antonheitz/xBRL-Forge)** [![GitHub stars](https://img.shields.io/github/stars/antonheitz/xBRL-Forge?style=social&color=white)](https://github.com/antonheitz/xBRL-Forge/stargazers)  
+* **[xBRL-Forge](https://github.com/antonheitz/xBRL-Forge)** [![GitHub_Stars](https://img.shields.io/github/stars/antonheitz/xBRL-Forge?style=social&color=white)](https://github.com/antonheitz/xBRL-Forge/stargazers)  
   *Open-source iXBRL report and XBRL taxonomy generator.*  
   Builds digital financial and ESG disclosure documents with full XBRL compliance for regulatory audit trails.  
   *Stack: Python*
 
-* **[CarbonInk](https://github.com/lxzxl/carbonink)** [![GitHub stars](https://img.shields.io/github/stars/lxzxl/carbonink?style=social&color=white)](https://github.com/lxzxl/carbonink/stargazers)  
+* **[CarbonInk](https://github.com/lxzxl/carbonink)** [![GitHub_Stars](https://img.shields.io/github/stars/lxzxl/carbonink?style=social&color=white)](https://github.com/lxzxl/carbonink/stargazers)  
   *Local-first, privacy-preserving desktop application for corporate GHG accounting (MIT).*  
   Features offline AI bill/receipt extraction, ISO 14064-1 compliance, audit-grade calculation snapshots, and a built-in MCP server for Claude and Cursor integration.  
   *Stack: Rust • TypeScript • React*
 
-* **[ESG Reporting AI](https://github.com/shashank-dj/esg-reporting-ai)** [![GitHub stars](https://img.shields.io/github/stars/shashank-dj/esg-reporting-ai?style=social&color=white)](https://github.com/shashank-dj/esg-reporting-ai/stargazers)  
+* **[ESG Reporting AI](https://github.com/shashank-dj/esg-reporting-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/shashank-dj/esg-reporting-ai?style=social&color=white)](https://github.com/shashank-dj/esg-reporting-ai/stargazers)  
   *AI-augmented ESG reporting platform combining deterministic calculations with CSRD/ESRS copilots.*  
   Features Scope 1/2 calculation, Scope 3 spend estimation, CSRD/ESRS E1 disclosure mapping, GRI coverage heatmaps, and audit readiness scoring.  
   *Stack: Python • Streamlit*
 
-* **[ESG-Copilot](https://github.com/omkardongre/ESG-Copilot)** [![GitHub stars](https://img.shields.io/github/stars/omkardongre/ESG-Copilot?style=social&color=white)](https://github.com/omkardongre/ESG-Copilot/stargazers)  
+* **[ESG-Copilot](https://github.com/omkardongre/ESG-Copilot)** [![GitHub_Stars](https://img.shields.io/github/stars/omkardongre/ESG-Copilot?style=social&color=white)](https://github.com/omkardongre/ESG-Copilot/stargazers)  
   *Enterprise AI-powered ESG compliance automation framework.*  
   Orchestrates specialized agents: Regulation Research, ESG Data Ingestion, Emissions Calculator (via Climatiq API), and Multi-Framework Report Synthesizer (GRI/SASB/TCFD).  
   *Stack: Next.js 14 • Node.js • LangChain.js • Gemini*
 
-* **[carbon-footprint-mcp](https://github.com/MayankTalwar0/carbon-footprint-mcp)** [![GitHub stars](https://img.shields.io/github/stars/MayankTalwar0/carbon-footprint-mcp?style=social&color=white)](https://github.com/MayankTalwar0/carbon-footprint-mcp/stargazers)  
+* **[carbon-footprint-mcp](https://github.com/MayankTalwar0/carbon-footprint-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/MayankTalwar0/carbon-footprint-mcp?style=social&color=white)](https://github.com/MayankTalwar0/carbon-footprint-mcp/stargazers)  
   *MCP server for calculating organizational carbon footprints from bank transactions and spend exports.*  
   Runs 100% locally with zero external financial API data leakage. Computes Scope 1, 2, and 3 emissions using EPA GHG emission factors. Also published on [PyPI](https://pypi.org/project/carbon-footprint-mcp/).  
   *Stack: Python • Model Context Protocol (MCP)*
 
-* **[ESG-Report-Studio](https://github.com/SebastianDabkowski/ESG-Report-Studio)** [![GitHub stars](https://img.shields.io/github/stars/SebastianDabkowski/ESG-Report-Studio?style=social&color=white)](https://github.com/SebastianDabkowski/ESG-Report-Studio/stargazers)  
+* **[ESG-Report-Studio](https://github.com/SebastianDabkowski/ESG-Report-Studio)** [![GitHub_Stars](https://img.shields.io/github/stars/SebastianDabkowski/ESG-Report-Studio?style=social&color=white)](https://github.com/SebastianDabkowski/ESG-Report-Studio/stargazers)  
   *Structured ESG responsibility report platform supporting controlled, auditable sustainability compliance.*  
   Treats sustainability reports as auditable compliance artifacts rather than marketing documents, with CSRD/ESRS requirement mappings and audit retention policies.  
   *Stack: TypeScript*
 
-* **[OpenGHG Carbon Calculator](https://github.com/mindsongreen/OpenGHG)** [![GitHub stars](https://img.shields.io/github/stars/mindsongreen/OpenGHG?style=social&color=white)](https://github.com/mindsongreen/OpenGHG/stargazers)  
+* **[OpenGHG Carbon Calculator](https://github.com/mindsongreen/OpenGHG)** [![GitHub_Stars](https://img.shields.io/github/stars/mindsongreen/OpenGHG?style=social&color=white)](https://github.com/mindsongreen/OpenGHG/stargazers)  
   *Transparent, auditable carbon footprint calculator engine with explicit unit algebra.*  
   Features complete separation of activity data, emission factors, and calculation domains, allowing organizations to self-host sensitive operational metrics.  
   *Stack: PHP • PostgreSQL • JavaScript*
